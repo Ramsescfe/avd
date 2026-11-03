@@ -1,0 +1,15 @@
+HISTÓRICO DE USO DE IA — ATIVIDADE STREAMLIT
+
+Prompt principal utilizado:
+"Com base na EDA, crie uma aplicação Streamlit com dois dashboards. O primeiro deve ser um laboratório de análise de distribuição e correlação, com seletor de variável, slider, histograma e mapa de calor. O segundo deve apresentar de três a cinco KPIs próprios e três visuais voltados a um público-alvo definido. Organize o repositório com app.py, README.md, requirements.txt, dataset_voos/, notebooks/, entregas/ e prompts/."
+
+Ajustes solicitados durante o desenvolvimento:
+- Definir gestores de operações de companhias aéreas como público-alvo.
+- Usar apenas atributos existentes no dataset.
+- Aplicar os filtros aos dois dashboards.
+- Evitar exposição de identificadores em tabelas de registros individuais.
+- Criar documentação para execução, publicação e teste.
+- Preparar os rascunhos dos dois dashboards.
+
+Observação:
+Este arquivo registra os prompts e decisões de apoio. O código e os resultados devem ser revisados pelo autor antes da entrega.
