@@ -1,0 +1,17 @@
+# Ambientes e caches locais
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Configurações locais e segredos do Streamlit
+.streamlit/secrets.toml
+
+# Arquivo original duplicado; a cópia oficial está em dataset_voos/
+india_flight_delay_model_input (1).csv
+
+# Arquivos do sistema/editor
+.DS_Store
+Thumbs.db
+.vscode/
