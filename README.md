@@ -4,7 +4,7 @@ Aplicação Streamlit criada para explorar atrasos de voos na Índia. O projeto 
 
 ## Aplicação publicada
 
-> **Link do app:** adicionar aqui após o deploy no Streamlit Community Cloud.
+> **Link do app:** [https://avdatt.streamlit.app/](https://avdatt.streamlit.app/)
 
 ## Dashboards
 
@@ -57,5 +57,5 @@ O dataset possui 150.000 registros de voos e 23 atributos operacionais e climát
 - [ ] Testar o seletor de variável, o slider e os filtros de companhia e clima.
 - [ ] Confirmar o carregamento das duas abas.
 - [ ] Confirmar que não há dados pessoais ou segredos no repositório.
-- [ ] Substituir o campo acima pelo link real do Streamlit.
+- [x] Substituir o campo acima pelo link real do Streamlit.
 - [ ] Conferir os dois rascunhos em `entregas/`.
